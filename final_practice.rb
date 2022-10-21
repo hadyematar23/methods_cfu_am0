@@ -1,6 +1,12 @@
 # Defining Our Own Methods
 # 1: Write a method named greeting that prints out a general greeting to someone
 
+def greeting(name)
+    "Why Hello, #{name}, how do you do?"
+end 
+
+
+
 # What is the return value of your method?
 # How many arguments did you pass your method?
 
